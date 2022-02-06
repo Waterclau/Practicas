@@ -24,3 +24,5 @@ Debido a que el servicio no se encuentra disponible, al pulsar el boton se lleva
 
 Por último cabe aclarar que no se ha utilizado hoja de estilos, al ser una práctica en HTML puro.
 
+## Para acceder a la página principal, introducir en el navegador : waterclau.github.io
+
